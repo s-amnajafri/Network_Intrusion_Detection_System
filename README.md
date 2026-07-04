@@ -103,15 +103,6 @@ To address these challenges, we designed a Network Intrusion Detection System (N
 
 ---
 
-## Team Members
-
-* **Amna Jafri** — Anomaly Detection & Analysis
-* **Sana Zehra** — Packet Queue & Simulation
-* **Fatima Hasan** — IDS Log System
-* **Amna Gul** — CLI Interface & File Logging
-
----
-
 ## Conclusion
 
 The project demonstrates a functional, CLI-based network intrusion detection system. It effectively captures packets, logs them efficiently, identifies suspicious behavior, and detects anomalies in real time. The implementation highlights how fundamental data structures support real-world networking concepts, including traffic monitoring, alert generation, and log organization. The system provides a solid foundation for future enhancements and further exploration in cybersecurity-focused software design.
