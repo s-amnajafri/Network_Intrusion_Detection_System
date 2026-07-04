@@ -1,9 +1,4 @@
 # Network Intrusion Detection System (NIDS)
-
-**Course:** Data Structures & Algorithms (CT-159)
-**Section:** B
-**Department:** BCIT
-
 ---
 
 ## Project Report
